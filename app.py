@@ -57,7 +57,7 @@ def send_via_sendgrid(to_email, subject, message, sender_name):
         },
         "reply_to": {
             "email": REPLY_TO_EMAIL,
-            "name": "Your Support Team"
+            "name": "Leafy"
         },
         "content": [
             {
