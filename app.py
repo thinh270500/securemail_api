@@ -163,7 +163,6 @@ Gửi từ: {sender_name}
 Nội dung mã hóa:
 {message}
 
-Hướng dẫn: Sử dụng ứng dụng Ionic để giải mã.
 
 --
 Sent by Encrypted Email Demo
@@ -174,7 +173,6 @@ Unsubscribe: https://yourdomain.com/unsubscribe?email={to_email}
         <h3>Gửi từ: {sender_name}</h3>
         <p><strong>Nội dung mã hóa:</strong></p>
         <pre>{message}</pre>
-        <p><strong>Hướng dẫn:</strong> Sử dụng ứng dụng Ionic để giải mã.</p>
         <hr style="border-top: 1px solid #ccc;">
         <p style="font-size: 12px; color: #666;">
             Sent by Encrypted Email Demo<br>
